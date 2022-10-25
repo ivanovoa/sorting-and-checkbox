@@ -1,0 +1,2 @@
+body{padding:5px}input[type=checkbox]{-webkit-appearance:none;appearance:none;border:2px solid red;height:20px;margin:0 10px 0 0;vertical-align:middle;width:20px}input[type=checkbox]:checked{border-color:green}input[type=checkbox]:checked:before{background-image:url(/sorting-and-checkbox/static/media/checked.d106ed6d2f28569b0d15.svg);background-position:50%;background-repeat:no-repeat;background-size:cover;content:"";height:15px;position:absolute;width:15px}
+/*# sourceMappingURL=main.7f61e9fe.css.map*/

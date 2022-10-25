@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sorting-and-checkbox/static/css/main.7f61e9fe.css",
+    "main.js": "/sorting-and-checkbox/static/js/main.b05520e5.js",
+    "index.html": "/sorting-and-checkbox/index.html",
+    "static/media/checked.svg": "/sorting-and-checkbox/static/media/checked.d106ed6d2f28569b0d15.svg",
+    "main.7f61e9fe.css.map": "/sorting-and-checkbox/static/css/main.7f61e9fe.css.map",
+    "main.b05520e5.js.map": "/sorting-and-checkbox/static/js/main.b05520e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f61e9fe.css",
+    "static/js/main.b05520e5.js"
+  ]
+}
